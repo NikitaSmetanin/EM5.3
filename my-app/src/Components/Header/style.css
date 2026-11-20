@@ -1,0 +1,17 @@
+.header {
+    display: flex;
+    gap: 20px;
+    padding: 14px 20px;
+    background: #1a6dff;
+    font-family: sans-serif;
+}
+
+.header a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.header a.active {
+    font-weight: bold;
+    text-decoration: underline;
+}

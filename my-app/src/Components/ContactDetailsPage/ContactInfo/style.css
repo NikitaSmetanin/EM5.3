@@ -1,0 +1,15 @@
+.contact-info p {
+    margin: 8px 0;
+    font-size: 17px;
+}
+
+.edit-button {
+    margin-top: 10px;
+    padding: 10px 20px;
+    background: #1a6dff;
+    color: #fff;
+    border: none;
+    border-radius: 6px;
+    font-size: 16px;
+    cursor: pointer;
+}

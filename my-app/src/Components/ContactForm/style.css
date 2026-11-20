@@ -1,0 +1,29 @@
+.contact-form {
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+}
+
+.form-buttons {
+    display: flex;
+    gap: 10px;
+}
+
+.button-primary,
+.button-secondary {
+    flex: 1;
+    padding: 10px;
+    border: none;
+    border-radius: 6px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.button-primary {
+    background: #1a6dff;
+    color: #fff;
+}
+
+.button-secondary {
+    background: #e5e5e5;
+}

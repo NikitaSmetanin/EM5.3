@@ -1,0 +1,23 @@
+.field {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+
+.field-label {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.field input,
+.field select {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 16px;
+}
+
+.field-error {
+    color: #dc3545;
+    font-size: 13px;
+}
